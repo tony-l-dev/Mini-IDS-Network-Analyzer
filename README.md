@@ -3,7 +3,7 @@
 capture :   
     - S'occupe de récupérer les paquets réseau  
     - Fournit les paquets bruts aux autres modules  
-    - Décision à prendre : libpcap ou RAW sockets  
+    - Utilisation de libpcap 
 
 parser :  
     - Extrait les informations essentielles de chaque paquet :  
